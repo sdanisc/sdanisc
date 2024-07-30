@@ -1,5 +1,7 @@
 <h1>Hi, I'm <a href="https://linkedin.com/in/stephendanisc/">Stephen</a>!</h1>
 
+I'm a dedicated IT professional with a passion for delivering exceptional technical support and a commitment to ensuring client satisfaction. With a strong background in troubleshooting and a recent CompTIA Network+ certification, I'm well-versed in networking fundamentals and eager to apply my skills in a NOC.
+
 <h2>💻 IT Projects:</h2>
 
 - [Networking Home Lab](https://github.com/sdanisc/networking-lab)

@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/stephendanisc/">Stephen</a>!</h1>
+<h1>Hi, I'm <a href="https://linkedin.com/in/stephendanisc/">Stephen</a>!</h1>
 
 <h2>💻 IT Projects:</h2>
 

@@ -2,7 +2,7 @@
 
 <h2>💻 IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/sdanisc/LABURL)
+- [Active Directory Home Lab](https://github.com/sdanisc/ad-lab)
 - [Networking Home Lab](https://github.com/sdanisc/LABURL)
 - [Cybersecurity Home Lab](https://github.com/sdanisc/LABURL)
 

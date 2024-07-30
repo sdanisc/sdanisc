@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/stephendanisc/">Stephen</a>!</h1>
+
+<h2>💻 IT Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/sdanisc/LABURL)
+- [Networking Home Lab](https://github.com/sdanisc/LABURL)
+- [Cybersecurity Home Lab](https://github.com/sdanisc/LABURL)
+
+<h2>📜 Certifications</h2>
+
+- [CompTIA Network+](https://www.credly.com/badges/fa89fc2d-1284-4485-8ed2-07177a4c6ceb/public_url) 
+- CompTIA Security+ (expected September 2024)
 
 <!--
 **sdanisc/sdanisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

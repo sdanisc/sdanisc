@@ -2,9 +2,8 @@
 
 <h2>💻 IT Projects:</h2>
 
+- [Networking Home Lab](https://github.com/sdanisc/networking-lab)
 - [Active Directory Home Lab](https://github.com/sdanisc/ad-lab)
-- [Networking Home Lab](https://github.com/sdanisc/LABURL)
-- [Cybersecurity Home Lab](https://github.com/sdanisc/LABURL)
 
 <h2>📜 Certifications</h2>
 

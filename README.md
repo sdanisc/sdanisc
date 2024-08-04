@@ -5,7 +5,10 @@ I'm an IT professional with a passion for delivering exceptional technical suppo
 <h2>💻 IT Projects:</h2>
 
 - [Networking Home Lab](https://github.com/sdanisc/networking-lab)
-- [Active Directory Home Lab](https://github.com/sdanisc/ad-lab)
+<!--
+- [Vulnerability Scanner Home Lab](https://github.com/sdanisc/vulnerability-scanner-lab)
+- [Active Directory Home Lab](https://github.com/sdanisc/ad-lab) 
+-->
 
 <h2>📜 Certifications</h2>
 

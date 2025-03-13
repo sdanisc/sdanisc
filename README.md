@@ -12,7 +12,7 @@ I'm an IT professional with a passion for delivering exceptional technical suppo
 
 - [CompTIA Network+](https://www.credly.com/badges/fa89fc2d-1284-4485-8ed2-07177a4c6ceb/public_url) 
 - [CompTIA Security+](https://www.credly.com/badges/51ffb536-ba60-4b7a-81fb-43ee2728c17c/public_url)
-- CompTIA Linux+ (expected 1/2025)
+- AWS Solutions Architect - Associate (expected 7/2025)
 
 <!--
 **sdanisc/sdanisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
